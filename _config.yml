@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "최동연"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복한 컴퓨터교육 설계자"
-  location         : "대한민국, 서울"
+  bio              : "노는 게 제일 좋아 친구들 모여라"
+  location         : "대한민국, 수원"
   email            : "choidino4@gmail.com"
   links:
     - label: "Email"
