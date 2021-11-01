@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C 프로그래밍"
+title                    : "표준동연대사전"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "최동연"
-description              : "시스템 프로그램을 위한 C언어" # "An amazing website."
+description              : "최동연과 관련된 모든 것" # "An amazing website."
 url                      : "http://choi-dongyeon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Choi-dongyeon/Choi-dongyeon.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "최동연"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "노는 게 제일 좋아 친구들 모여라"
+  bio              : "최동연과 관련된 모든 것"
   location         : "대한민국, 수원"
   email            : "choidino4@gmail.com"
   links:
